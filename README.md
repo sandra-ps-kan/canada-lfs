@@ -2,7 +2,6 @@
 ## Exploratory Data Analysis on the Canadian tech labour market
 
 ### Objective
-Each month, Statistics Canada carries out Labour Force Survey to understand the labour market. 
 In this analysis, we want to know who and where the tech workers are, and why they demonstate certain employment-related behaviours.
 
 ### Applications
@@ -34,3 +33,22 @@ You can find the individual public use microdata files [here](https://www150.sta
 
 ### Tool
 Python
+
+### About the Labour Force Survey
+<i> (Extracted from Statistics Canada website) </i>
+
+The Labour Force Survey is a monthly survey which measures the current state of the Canadian labour market and is used, among other things, to calculate the national, provincial, territorial and regional employment and unemployment rates. The survey results are used to make important decisions regarding job creation, education and training, retirement pensions and income support.
+
+The survey asks questions about:
+<li> employment and unemployment</li>
+<li> hours of work and work arrangements</li>
+<li> industries</li>
+<li> labour</li>
+<li> occupations</li>
+<li> unionization and industrial relations</li>
+<li> wages, salaries and other earnings.</li>
+
+Frequency: Monthly
+
+Source: https://www.statcan.gc.ca/en/survey/household/3701
+Public Use Microdata File: https://www150.statcan.gc.ca/n1/en/catalogue/71M0001X
