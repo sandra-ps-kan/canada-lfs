@@ -26,9 +26,10 @@ You can find the individual public use microdata files [here](https://www150.sta
 #### Talent clusters: where are they? (Coming soon)
 <li> Census metropolitan area (CMA) </li>
 <li> Industry </li>
+<li> How does the salary compare across cities and industries? </li>
 
 #### Employement-related behaviours (Coming soon)
-<li> How does the salary compare across cities and industries? </li>
+<li> What kind of jobs are present in the market? </li>
 <li> Why are some of them unemployed? </li>
 
 ### Tool
