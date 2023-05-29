@@ -23,12 +23,12 @@ You can find the individual public use microdata files [here](https://www150.sta
 <li> How does the demographics compare to the rest of the Canadian labour market? </li>
 <li> How has the demographics changed over the years? </li>
 
-#### Talent clusters: where are they? (Coming soon)
+#### Talent clusters: where are they?
 <li> Census metropolitan area (CMA) </li>
 <li> Industry </li>
 <li> How does the salary compare across cities and industries? </li>
 
-#### Employement-related behaviours (Coming soon)
+#### Employment-related behaviours
 <li> What kind of jobs are present in the market? </li>
 <li> Why are some of them unemployed? </li>
 
