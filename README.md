@@ -11,7 +11,7 @@ In this analysis, we want to know who and where the tech workers are, and why th
 
 ### Dataset
 This analysis uses monthly data from the year 2019 to present. There are 60 variables.
-You can find the individual public use microdata files [here](https://www150.statcan.gc.ca/n1/en/catalogue/71M0001X).
+<br>You can find the individual public use microdata files [here](https://www150.statcan.gc.ca/n1/en/catalogue/71M0001X).
 
 ### Data Questions
 #### Demographics: who are they?
@@ -49,7 +49,6 @@ The survey asks questions about:
 <li> unionization and industrial relations</li>
 <li> wages, salaries and other earnings.</li>
 
-Frequency: Monthly
-
-Source: https://www.statcan.gc.ca/en/survey/household/3701
-Public Use Microdata File: https://www150.statcan.gc.ca/n1/en/catalogue/71M0001X
+<br>Frequency: Monthly
+<br> Source: https://www.statcan.gc.ca/en/survey/household/3701
+<br> Public Use Microdata File: https://www150.statcan.gc.ca/n1/en/catalogue/71M0001X
